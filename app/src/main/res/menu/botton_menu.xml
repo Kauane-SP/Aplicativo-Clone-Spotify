@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nave_inicio"
+        android:icon="@drawable/home_inicio"
+        android:title="Inicio"
+        />
+
+    <item
+        android:id="@+id/nave_search"
+        android:icon="@drawable/home_search"
+        android:title="Buscar"
+        />
+
+    <item
+        android:id="@+id/nave_biblioteca"
+        android:icon="@drawable/home_sort"
+        android:title="Sua biblioteca"
+        />
+
+
+</menu>
